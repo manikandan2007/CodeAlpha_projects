@@ -1,6 +1,6 @@
 
 🔍 Project 1: Network Sniffer
-📌 Overview
+
 
 The Network Sniffer captures and analyzes network packets flowing through a network interface.
 
@@ -11,6 +11,8 @@ Packet structures
 Protocol communication
 Source and destination addresses
 Transport layer details
+
+
 ✨ Features
 Real-time packet capturing
 Source IP Address detection
@@ -21,17 +23,22 @@ Destination Port extraction
 Payload inspection
 Packet logging
 Timestamp recording
+
+
 🛠 Technologies Used
 Python
 Scapy
 Socket Programming
+
+
 📚 Learning Outcomes
 TCP/IP Fundamentals
 Network Packet Analysis
 Protocol Inspection
 Traffic Monitoring
+
+
 🎣 Project 2: Phishing Awareness Portal
-📌 Overview
 
 The Phishing Awareness Portal is an educational website designed to teach users how to recognize and prevent phishing attacks through interactive learning modules.
 
@@ -45,6 +52,7 @@ Email phishing demonstrations
 Fake website identification exercises
 Cybersecurity tips and recommendations
 📚 Modules Included
+
 Module 1
 
 Introduction to Phishing
@@ -77,13 +85,17 @@ Final Assessment and Certification
 HTML5
 CSS3
 JavaScript
+
+
 📚 Learning Outcomes
 Threat Recognition
 Secure Browsing Habits
 Email Security
 Social Engineering Awareness
+
+
 🚨 Project 3: Intrusion Detection & Prevention System (IDS/IPS)
-📌 Overview
+
 
 The IDS/IPS System monitors network activities and detects suspicious behavior while providing preventive measures against malicious traffic.
 
@@ -101,19 +113,21 @@ Malicious IP Detection
 Automated Response Actions
 Rule-Based Prevention
 Traffic Filtering
+
+
 🛠 Technologies Used
 Python
 Scapy
 Logging Module
 Networking Libraries
+
+
 📚 Learning Outcomes
 Threat Detection
 Network Security Monitoring
 Incident Response
 Attack Prevention
-⚙️ Installation
-Clone Repository
-git clone https://github.com/yourusername/CodeAlpha.git
+
 
 cd CodeAlpha
 Install Dependencies
