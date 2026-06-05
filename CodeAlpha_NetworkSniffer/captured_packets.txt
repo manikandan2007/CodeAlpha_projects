@@ -1,0 +1,816 @@
+
+[2026-06-04 13:39:04]
+Protocol         : UDP
+Source IP        : 192.168.1.4
+Destination IP   : 224.0.0.251
+Source Port      : 5353
+Destination Port : 5353
+Length           : 193 bytes
+TCP Flags        : -
+Payload Size     : 179 bytes
+Summary          : Ether / IP / UDP / mDNS Qry b'Android-3.local.'
+------------------------------------------------------------
+
+[2026-06-04 13:39:04]
+Protocol         : UDP
+Source IP        : 192.168.1.4
+Destination IP   : 224.0.0.251
+Source Port      : 5353
+Destination Port : 5353
+Length           : 193 bytes
+TCP Flags        : -
+Payload Size     : 179 bytes
+Summary          : Ether / IP / UDP / mDNS Qry b'Android-3.local.'
+------------------------------------------------------------
+
+[2026-06-04 13:39:05]
+Protocol         : UDP
+Source IP        : 192.168.1.4
+Destination IP   : 224.0.0.251
+Source Port      : 5353
+Destination Port : 5353
+Length           : 193 bytes
+TCP Flags        : -
+Payload Size     : 179 bytes
+Summary          : Ether / IP / UDP / mDNS Qry b'Android-3.local.'
+------------------------------------------------------------
+
+[2026-06-04 13:39:05]
+Protocol         : UDP
+Source IP        : 192.168.1.4
+Destination IP   : 224.0.0.251
+Source Port      : 5353
+Destination Port : 5353
+Length           : 385 bytes
+TCP Flags        : -
+Payload Size     : 371 bytes
+Summary          : Ether / IP / UDP / mDNS Ans b'Android-3.local.'
+------------------------------------------------------------
+
+[2026-06-04 13:39:05]
+Protocol         : UDP
+Source IP        : 192.168.1.4
+Destination IP   : 224.0.0.251
+Source Port      : 5353
+Destination Port : 5353
+Length           : 189 bytes
+TCP Flags        : -
+Payload Size     : 175 bytes
+Summary          : Ether / IP / UDP / mDNS Ans 192.168.1.4
+------------------------------------------------------------
+
+[2026-06-04 13:39:07]
+Protocol         : TCP
+Source IP        : 192.168.1.5
+Destination IP   : 20.50.80.214
+Source Port      : 60065
+Destination Port : 443
+Length           : 54 bytes
+TCP Flags        : FA
+Payload Size     : 40 bytes
+Summary          : Ether / IP / TCP 192.168.1.5:60065 > 20.50.80.214:https FA
+------------------------------------------------------------
+
+[2026-06-04 13:39:07]
+Protocol         : TCP
+Source IP        : 20.50.80.214
+Destination IP   : 192.168.1.5
+Source Port      : 443
+Destination Port : 60065
+Length           : 54 bytes
+TCP Flags        : FA
+Payload Size     : 40 bytes
+Summary          : Ether / IP / TCP 20.50.80.214:https > 192.168.1.5:60065 FA
+------------------------------------------------------------
+
+[2026-06-04 13:39:07]
+Protocol         : TCP
+Source IP        : 192.168.1.5
+Destination IP   : 20.50.80.214
+Source Port      : 60065
+Destination Port : 443
+Length           : 54 bytes
+TCP Flags        : A
+Payload Size     : 40 bytes
+Summary          : Ether / IP / TCP 192.168.1.5:60065 > 20.50.80.214:https A
+------------------------------------------------------------
+
+[2026-06-04 13:39:08]
+Protocol         : UDP
+Source IP        : 192.168.1.4
+Destination IP   : 224.0.0.251
+Source Port      : 5353
+Destination Port : 5353
+Length           : 505 bytes
+TCP Flags        : -
+Payload Size     : 491 bytes
+Summary          : Ether / IP / UDP / mDNS Ans b'Android-3.local.'
+------------------------------------------------------------
+
+[2026-06-04 13:39:12]
+Protocol         : UDP
+Source IP        : 192.168.1.5
+Destination IP   : 192.168.1.1
+Source Port      : 49776
+Destination Port : 53
+Length           : 70 bytes
+TCP Flags        : -
+Payload Size     : 56 bytes
+Summary          : Ether / IP / UDP / DNS Qry b'saec.ac.in.'
+------------------------------------------------------------
+
+[2026-06-04 13:39:12]
+Protocol         : UDP
+Source IP        : 192.168.1.1
+Destination IP   : 192.168.1.5
+Source Port      : 53
+Destination Port : 49776
+Length           : 139 bytes
+TCP Flags        : -
+Payload Size     : 125 bytes
+Summary          : Ether / IP / UDP / DNS Ans
+------------------------------------------------------------
+
+[2026-06-04 13:39:12]
+Protocol         : ICMP
+Source IP        : 192.168.1.5
+Destination IP   : 145.79.211.142
+Source Port      : -
+Destination Port : -
+Length           : 74 bytes
+TCP Flags        : -
+Payload Size     : 60 bytes
+Summary          : Ether / IP / ICMP 192.168.1.5 > 145.79.211.142 echo-request 0 / Raw
+------------------------------------------------------------
+
+[2026-06-04 13:39:12]
+Protocol         : ICMP
+Source IP        : 145.79.211.142
+Destination IP   : 192.168.1.5
+Source Port      : -
+Destination Port : -
+Length           : 78 bytes
+TCP Flags        : -
+Payload Size     : 64 bytes
+Summary          : Ether / Dot1Q / IP / ICMP 145.79.211.142 > 192.168.1.5 echo-reply 0 / Raw
+------------------------------------------------------------
+
+[2026-06-04 13:39:13]
+Protocol         : ICMP
+Source IP        : 192.168.1.5
+Destination IP   : 145.79.211.142
+Source Port      : -
+Destination Port : -
+Length           : 74 bytes
+TCP Flags        : -
+Payload Size     : 60 bytes
+Summary          : Ether / IP / ICMP 192.168.1.5 > 145.79.211.142 echo-request 0 / Raw
+------------------------------------------------------------
+
+[2026-06-04 13:39:13]
+Protocol         : ICMP
+Source IP        : 145.79.211.142
+Destination IP   : 192.168.1.5
+Source Port      : -
+Destination Port : -
+Length           : 78 bytes
+TCP Flags        : -
+Payload Size     : 64 bytes
+Summary          : Ether / Dot1Q / IP / ICMP 145.79.211.142 > 192.168.1.5 echo-reply 0 / Raw
+------------------------------------------------------------
+
+[2026-06-04 13:39:14]
+Protocol         : UDP
+Source IP        : 192.168.1.4
+Destination IP   : 224.0.0.251
+Source Port      : 5353
+Destination Port : 5353
+Length           : 505 bytes
+TCP Flags        : -
+Payload Size     : 491 bytes
+Summary          : Ether / IP / UDP / mDNS Ans b'Android-3.local.'
+------------------------------------------------------------
+
+[2026-06-04 13:39:14]
+Protocol         : ICMP
+Source IP        : 192.168.1.5
+Destination IP   : 145.79.211.142
+Source Port      : -
+Destination Port : -
+Length           : 74 bytes
+TCP Flags        : -
+Payload Size     : 60 bytes
+Summary          : Ether / IP / ICMP 192.168.1.5 > 145.79.211.142 echo-request 0 / Raw
+------------------------------------------------------------
+
+[2026-06-04 13:39:14]
+Protocol         : ICMP
+Source IP        : 145.79.211.142
+Destination IP   : 192.168.1.5
+Source Port      : -
+Destination Port : -
+Length           : 78 bytes
+TCP Flags        : -
+Payload Size     : 64 bytes
+Summary          : Ether / Dot1Q / IP / ICMP 145.79.211.142 > 192.168.1.5 echo-reply 0 / Raw
+------------------------------------------------------------
+
+[2026-06-04 13:39:15]
+Protocol         : ICMP
+Source IP        : 192.168.1.5
+Destination IP   : 145.79.211.142
+Source Port      : -
+Destination Port : -
+Length           : 74 bytes
+TCP Flags        : -
+Payload Size     : 60 bytes
+Summary          : Ether / IP / ICMP 192.168.1.5 > 145.79.211.142 echo-request 0 / Raw
+------------------------------------------------------------
+
+[2026-06-04 13:39:15]
+Protocol         : ICMP
+Source IP        : 145.79.211.142
+Destination IP   : 192.168.1.5
+Source Port      : -
+Destination Port : -
+Length           : 78 bytes
+TCP Flags        : -
+Payload Size     : 64 bytes
+Summary          : Ether / Dot1Q / IP / ICMP 145.79.211.142 > 192.168.1.5 echo-reply 0 / Raw
+------------------------------------------------------------
+
+[2026-06-04 13:39:23]
+Protocol         : TCP
+Source IP        : 192.168.1.5
+Destination IP   : 20.190.146.37
+Source Port      : 54957
+Destination Port : 443
+Length           : 54 bytes
+TCP Flags        : FA
+Payload Size     : 40 bytes
+Summary          : Ether / IP / TCP 192.168.1.5:54957 > 20.190.146.37:https FA
+------------------------------------------------------------
+
+[2026-06-04 13:39:23]
+Protocol         : TCP
+Source IP        : 20.190.146.37
+Destination IP   : 192.168.1.5
+Source Port      : 443
+Destination Port : 54957
+Length           : 58 bytes
+TCP Flags        : FA
+Payload Size     : 44 bytes
+Summary          : Ether / Dot1Q / IP / TCP 20.190.146.37:https > 192.168.1.5:54957 FA
+------------------------------------------------------------
+
+[2026-06-04 13:39:23]
+Protocol         : TCP
+Source IP        : 192.168.1.5
+Destination IP   : 20.190.146.37
+Source Port      : 54957
+Destination Port : 443
+Length           : 54 bytes
+TCP Flags        : A
+Payload Size     : 40 bytes
+Summary          : Ether / IP / TCP 192.168.1.5:54957 > 20.190.146.37:https A
+------------------------------------------------------------
+
+[2026-06-04 13:39:23]
+Protocol         : UDP
+Source IP        : 192.168.1.4
+Destination IP   : 224.0.0.251
+Source Port      : 5353
+Destination Port : 5353
+Length           : 505 bytes
+TCP Flags        : -
+Payload Size     : 491 bytes
+Summary          : Ether / IP / UDP / mDNS Ans b'Android-3.local.'
+------------------------------------------------------------
+
+[2026-06-04 13:39:26]
+Protocol         : TCP
+Source IP        : 192.168.1.5
+Destination IP   : 13.69.239.73
+Source Port      : 54825
+Destination Port : 443
+Length           : 66 bytes
+TCP Flags        : S
+Payload Size     : 52 bytes
+Summary          : Ether / IP / TCP 192.168.1.5:54825 > 13.69.239.73:https S
+------------------------------------------------------------
+
+[2026-06-04 13:39:26]
+Protocol         : TCP
+Source IP        : 13.69.239.73
+Destination IP   : 192.168.1.5
+Source Port      : 443
+Destination Port : 54825
+Length           : 66 bytes
+TCP Flags        : SA
+Payload Size     : 52 bytes
+Summary          : Ether / IP / TCP 13.69.239.73:https > 192.168.1.5:54825 SA
+------------------------------------------------------------
+
+[2026-06-04 13:39:26]
+Protocol         : TCP
+Source IP        : 192.168.1.5
+Destination IP   : 13.69.239.73
+Source Port      : 54825
+Destination Port : 443
+Length           : 54 bytes
+TCP Flags        : A
+Payload Size     : 40 bytes
+Summary          : Ether / IP / TCP 192.168.1.5:54825 > 13.69.239.73:https A
+------------------------------------------------------------
+
+[2026-06-04 13:39:26]
+Protocol         : TCP
+Source IP        : 192.168.1.5
+Destination IP   : 13.69.239.73
+Source Port      : 54825
+Destination Port : 443
+Length           : 1304 bytes
+TCP Flags        : A
+Payload Size     : 1290 bytes
+Summary          : Ether / IP / TCP 192.168.1.5:54825 > 13.69.239.73:https A / Raw
+------------------------------------------------------------
+
+[2026-06-04 13:39:26]
+Protocol         : TCP
+Source IP        : 192.168.1.5
+Destination IP   : 13.69.239.73
+Source Port      : 54825
+Destination Port : 443
+Length           : 641 bytes
+TCP Flags        : PA
+Payload Size     : 627 bytes
+Summary          : Ether / IP / TCP 192.168.1.5:54825 > 13.69.239.73:https PA / Raw
+------------------------------------------------------------
+
+[2026-06-04 13:39:27]
+Protocol         : TCP
+Source IP        : 13.69.239.73
+Destination IP   : 192.168.1.5
+Source Port      : 443
+Destination Port : 54825
+Length           : 54 bytes
+TCP Flags        : A
+Payload Size     : 40 bytes
+Summary          : Ether / IP / TCP 13.69.239.73:https > 192.168.1.5:54825 A
+------------------------------------------------------------
+
+[2026-06-04 13:39:27]
+Protocol         : TCP
+Source IP        : 13.69.239.73
+Destination IP   : 192.168.1.5
+Source Port      : 443
+Destination Port : 54825
+Length           : 153 bytes
+TCP Flags        : PA
+Payload Size     : 139 bytes
+Summary          : Ether / IP / TCP 13.69.239.73:https > 192.168.1.5:54825 PA / Raw
+------------------------------------------------------------
+
+[2026-06-04 13:39:27]
+Protocol         : TCP
+Source IP        : 192.168.1.5
+Destination IP   : 13.69.239.73
+Source Port      : 54825
+Destination Port : 443
+Length           : 737 bytes
+TCP Flags        : PA
+Payload Size     : 723 bytes
+Summary          : Ether / IP / TCP 192.168.1.5:54825 > 13.69.239.73:https PA / Raw
+------------------------------------------------------------
+
+[2026-06-04 13:39:27]
+Protocol         : TCP
+Source IP        : 13.69.239.73
+Destination IP   : 192.168.1.5
+Source Port      : 443
+Destination Port : 54825
+Length           : 1304 bytes
+TCP Flags        : A
+Payload Size     : 1290 bytes
+Summary          : Ether / IP / TCP 13.69.239.73:https > 192.168.1.5:54825 A / Raw
+------------------------------------------------------------
+
+[2026-06-04 13:39:27]
+Protocol         : TCP
+Source IP        : 192.168.1.5
+Destination IP   : 13.69.239.73
+Source Port      : 54825
+Destination Port : 443
+Length           : 66 bytes
+TCP Flags        : A
+Payload Size     : 52 bytes
+Summary          : Ether / IP / TCP 192.168.1.5:54825 > 13.69.239.73:https A
+------------------------------------------------------------
+
+[2026-06-04 13:39:27]
+Protocol         : TCP
+Source IP        : 13.69.239.73
+Destination IP   : 192.168.1.5
+Source Port      : 443
+Destination Port : 54825
+Length           : 1304 bytes
+TCP Flags        : A
+Payload Size     : 1290 bytes
+Summary          : Ether / IP / TCP 13.69.239.73:https > 192.168.1.5:54825 A / Raw
+------------------------------------------------------------
+
+[2026-06-04 13:39:27]
+Protocol         : TCP
+Source IP        : 13.69.239.73
+Destination IP   : 192.168.1.5
+Source Port      : 443
+Destination Port : 54825
+Length           : 1304 bytes
+TCP Flags        : A
+Payload Size     : 1290 bytes
+Summary          : Ether / IP / TCP 13.69.239.73:https > 192.168.1.5:54825 A / Raw
+------------------------------------------------------------
+
+[2026-06-04 13:39:27]
+Protocol         : TCP
+Source IP        : 13.69.239.73
+Destination IP   : 192.168.1.5
+Source Port      : 443
+Destination Port : 54825
+Length           : 1304 bytes
+TCP Flags        : A
+Payload Size     : 1290 bytes
+Summary          : Ether / IP / TCP 13.69.239.73:https > 192.168.1.5:54825 A / Raw
+------------------------------------------------------------
+
+[2026-06-04 13:39:27]
+Protocol         : TCP
+Source IP        : 13.69.239.73
+Destination IP   : 192.168.1.5
+Source Port      : 443
+Destination Port : 54825
+Length           : 1304 bytes
+TCP Flags        : A
+Payload Size     : 1290 bytes
+Summary          : Ether / IP / TCP 13.69.239.73:https > 192.168.1.5:54825 A / Raw
+------------------------------------------------------------
+
+[2026-06-04 13:39:27]
+Protocol         : TCP
+Source IP        : 13.69.239.73
+Destination IP   : 192.168.1.5
+Source Port      : 443
+Destination Port : 54825
+Length           : 1304 bytes
+TCP Flags        : A
+Payload Size     : 1290 bytes
+Summary          : Ether / IP / TCP 13.69.239.73:https > 192.168.1.5:54825 A / Raw
+------------------------------------------------------------
+
+[2026-06-04 13:39:27]
+Protocol         : TCP
+Source IP        : 13.69.239.73
+Destination IP   : 192.168.1.5
+Source Port      : 443
+Destination Port : 54825
+Length           : 1063 bytes
+TCP Flags        : PA
+Payload Size     : 1049 bytes
+Summary          : Ether / IP / TCP 13.69.239.73:https > 192.168.1.5:54825 PA / Raw
+------------------------------------------------------------
+
+[2026-06-04 13:39:27]
+Protocol         : TCP
+Source IP        : 192.168.1.5
+Destination IP   : 13.69.239.73
+Source Port      : 54825
+Destination Port : 443
+Length           : 74 bytes
+TCP Flags        : A
+Payload Size     : 60 bytes
+Summary          : Ether / IP / TCP 192.168.1.5:54825 > 13.69.239.73:https A
+------------------------------------------------------------
+
+[2026-06-04 13:39:27]
+Protocol         : TCP
+Source IP        : 192.168.1.5
+Destination IP   : 13.69.239.73
+Source Port      : 54825
+Destination Port : 443
+Length           : 74 bytes
+TCP Flags        : A
+Payload Size     : 60 bytes
+Summary          : Ether / IP / TCP 192.168.1.5:54825 > 13.69.239.73:https A
+------------------------------------------------------------
+
+[2026-06-04 13:39:27]
+Protocol         : TCP
+Source IP        : 192.168.1.5
+Destination IP   : 13.69.239.73
+Source Port      : 54825
+Destination Port : 443
+Length           : 66 bytes
+TCP Flags        : A
+Payload Size     : 52 bytes
+Summary          : Ether / IP / TCP 192.168.1.5:54825 > 13.69.239.73:https A
+------------------------------------------------------------
+
+[2026-06-04 13:39:27]
+Protocol         : TCP
+Source IP        : 192.168.1.5
+Destination IP   : 13.69.239.73
+Source Port      : 54825
+Destination Port : 443
+Length           : 54 bytes
+TCP Flags        : A
+Payload Size     : 40 bytes
+Summary          : Ether / IP / TCP 192.168.1.5:54825 > 13.69.239.73:https A
+------------------------------------------------------------
+
+[2026-06-04 13:39:27]
+Protocol         : TCP
+Source IP        : 192.168.1.5
+Destination IP   : 13.69.239.73
+Source Port      : 54825
+Destination Port : 443
+Length           : 54 bytes
+TCP Flags        : A
+Payload Size     : 40 bytes
+Summary          : Ether / IP / TCP 192.168.1.5:54825 > 13.69.239.73:https A
+------------------------------------------------------------
+
+[2026-06-04 13:39:27]
+Protocol         : TCP
+Source IP        : 192.168.1.5
+Destination IP   : 13.69.239.73
+Source Port      : 54825
+Destination Port : 443
+Length           : 128 bytes
+TCP Flags        : PA
+Payload Size     : 114 bytes
+Summary          : Ether / IP / TCP 192.168.1.5:54825 > 13.69.239.73:https PA / Raw
+------------------------------------------------------------
+
+[2026-06-04 13:39:27]
+Protocol         : TCP
+Source IP        : 192.168.1.5
+Destination IP   : 13.69.239.73
+Source Port      : 54825
+Destination Port : 443
+Length           : 146 bytes
+TCP Flags        : PA
+Payload Size     : 132 bytes
+Summary          : Ether / IP / TCP 192.168.1.5:54825 > 13.69.239.73:https PA / Raw
+------------------------------------------------------------
+
+[2026-06-04 13:39:27]
+Protocol         : TCP
+Source IP        : 192.168.1.5
+Destination IP   : 13.69.239.73
+Source Port      : 54825
+Destination Port : 443
+Length           : 546 bytes
+TCP Flags        : PA
+Payload Size     : 532 bytes
+Summary          : Ether / IP / TCP 192.168.1.5:54825 > 13.69.239.73:https PA / Raw
+------------------------------------------------------------
+
+[2026-06-04 13:39:27]
+Protocol         : TCP
+Source IP        : 192.168.1.5
+Destination IP   : 13.69.239.73
+Source Port      : 54825
+Destination Port : 443
+Length           : 1304 bytes
+TCP Flags        : A
+Payload Size     : 1290 bytes
+Summary          : Ether / IP / TCP 192.168.1.5:54825 > 13.69.239.73:https A / Raw
+------------------------------------------------------------
+
+[2026-06-04 13:39:27]
+Protocol         : TCP
+Source IP        : 192.168.1.5
+Destination IP   : 13.69.239.73
+Source Port      : 54825
+Destination Port : 443
+Length           : 1304 bytes
+TCP Flags        : A
+Payload Size     : 1290 bytes
+Summary          : Ether / IP / TCP 192.168.1.5:54825 > 13.69.239.73:https A / Raw
+------------------------------------------------------------
+
+[2026-06-04 13:39:27]
+Protocol         : TCP
+Source IP        : 192.168.1.5
+Destination IP   : 13.69.239.73
+Source Port      : 54825
+Destination Port : 443
+Length           : 266 bytes
+TCP Flags        : PA
+Payload Size     : 252 bytes
+Summary          : Ether / IP / TCP 192.168.1.5:54825 > 13.69.239.73:https PA / Raw
+------------------------------------------------------------
+
+[2026-06-04 13:39:27]
+Protocol         : TCP
+Source IP        : 13.69.239.73
+Destination IP   : 192.168.1.5
+Source Port      : 443
+Destination Port : 54825
+Length           : 1304 bytes
+TCP Flags        : A
+Payload Size     : 1290 bytes
+Summary          : Ether / IP / TCP 13.69.239.73:https > 192.168.1.5:54825 A / Raw
+------------------------------------------------------------
+
+[2026-06-04 13:39:27]
+Protocol         : TCP
+Source IP        : 192.168.1.5
+Destination IP   : 13.69.239.73
+Source Port      : 54825
+Destination Port : 443
+Length           : 66 bytes
+TCP Flags        : A
+Payload Size     : 52 bytes
+Summary          : Ether / IP / TCP 192.168.1.5:54825 > 13.69.239.73:https A
+------------------------------------------------------------
+
+[2026-06-04 13:39:27]
+Protocol         : TCP
+Source IP        : 13.69.239.73
+Destination IP   : 192.168.1.5
+Source Port      : 443
+Destination Port : 54825
+Length           : 54 bytes
+TCP Flags        : A
+Payload Size     : 40 bytes
+Summary          : Ether / IP / TCP 13.69.239.73:https > 192.168.1.5:54825 A
+------------------------------------------------------------
+
+[2026-06-04 13:39:27]
+Protocol         : TCP
+Source IP        : 13.69.239.73
+Destination IP   : 192.168.1.5
+Source Port      : 443
+Destination Port : 54825
+Length           : 54 bytes
+TCP Flags        : A
+Payload Size     : 40 bytes
+Summary          : Ether / IP / TCP 13.69.239.73:https > 192.168.1.5:54825 A
+------------------------------------------------------------
+
+[2026-06-04 13:39:27]
+Protocol         : TCP
+Source IP        : 13.69.239.73
+Destination IP   : 192.168.1.5
+Source Port      : 443
+Destination Port : 54825
+Length           : 157 bytes
+TCP Flags        : PA
+Payload Size     : 143 bytes
+Summary          : Ether / IP / TCP 13.69.239.73:https > 192.168.1.5:54825 PA / Raw
+------------------------------------------------------------
+
+[2026-06-04 13:39:27]
+Protocol         : TCP
+Source IP        : 13.69.239.73
+Destination IP   : 192.168.1.5
+Source Port      : 443
+Destination Port : 54825
+Length           : 116 bytes
+TCP Flags        : PA
+Payload Size     : 102 bytes
+Summary          : Ether / IP / TCP 13.69.239.73:https > 192.168.1.5:54825 PA / Raw
+------------------------------------------------------------
+
+[2026-06-04 13:39:27]
+Protocol         : TCP
+Source IP        : 192.168.1.5
+Destination IP   : 13.69.239.73
+Source Port      : 54825
+Destination Port : 443
+Length           : 54 bytes
+TCP Flags        : A
+Payload Size     : 40 bytes
+Summary          : Ether / IP / TCP 192.168.1.5:54825 > 13.69.239.73:https A
+------------------------------------------------------------
+
+[2026-06-04 13:39:27]
+Protocol         : TCP
+Source IP        : 192.168.1.5
+Destination IP   : 13.69.239.73
+Source Port      : 54825
+Destination Port : 443
+Length           : 85 bytes
+TCP Flags        : PA
+Payload Size     : 71 bytes
+Summary          : Ether / IP / TCP 192.168.1.5:54825 > 13.69.239.73:https PA / Raw
+------------------------------------------------------------
+
+[2026-06-04 13:39:27]
+Protocol         : TCP
+Source IP        : 13.69.239.73
+Destination IP   : 192.168.1.5
+Source Port      : 443
+Destination Port : 54825
+Length           : 367 bytes
+TCP Flags        : PA
+Payload Size     : 353 bytes
+Summary          : Ether / IP / TCP 13.69.239.73:https > 192.168.1.5:54825 PA / Raw
+------------------------------------------------------------
+
+[2026-06-04 13:39:27]
+Protocol         : TCP
+Source IP        : 192.168.1.5
+Destination IP   : 13.69.239.73
+Source Port      : 54825
+Destination Port : 443
+Length           : 54 bytes
+TCP Flags        : FA
+Payload Size     : 40 bytes
+Summary          : Ether / IP / TCP 192.168.1.5:54825 > 13.69.239.73:https FA
+------------------------------------------------------------
+
+[2026-06-04 13:39:27]
+Protocol         : TCP
+Source IP        : 13.69.239.73
+Destination IP   : 192.168.1.5
+Source Port      : 443
+Destination Port : 54825
+Length           : 89 bytes
+TCP Flags        : PA
+Payload Size     : 75 bytes
+Summary          : Ether / IP / TCP 13.69.239.73:https > 192.168.1.5:54825 PA / Raw
+------------------------------------------------------------
+
+[2026-06-04 13:39:27]
+Protocol         : TCP
+Source IP        : 13.69.239.73
+Destination IP   : 192.168.1.5
+Source Port      : 443
+Destination Port : 54825
+Length           : 54 bytes
+TCP Flags        : FA
+Payload Size     : 40 bytes
+Summary          : Ether / IP / TCP 13.69.239.73:https > 192.168.1.5:54825 FA
+------------------------------------------------------------
+
+[2026-06-04 13:39:27]
+Protocol         : TCP
+Source IP        : 192.168.1.5
+Destination IP   : 13.69.239.73
+Source Port      : 54825
+Destination Port : 443
+Length           : 54 bytes
+TCP Flags        : RA
+Payload Size     : 40 bytes
+Summary          : Ether / IP / TCP 192.168.1.5:54825 > 13.69.239.73:https RA
+------------------------------------------------------------
+
+[2026-06-04 13:39:44]
+Protocol         : TCP
+Source IP        : 192.168.1.5
+Destination IP   : 51.132.193.104
+Source Port      : 54958
+Destination Port : 443
+Length           : 54 bytes
+TCP Flags        : FA
+Payload Size     : 40 bytes
+Summary          : Ether / IP / TCP 192.168.1.5:54958 > 51.132.193.104:https FA
+------------------------------------------------------------
+
+[2026-06-04 13:39:44]
+Protocol         : TCP
+Source IP        : 51.132.193.104
+Destination IP   : 192.168.1.5
+Source Port      : 443
+Destination Port : 54958
+Length           : 54 bytes
+TCP Flags        : FA
+Payload Size     : 40 bytes
+Summary          : Ether / IP / TCP 51.132.193.104:https > 192.168.1.5:54958 FA
+------------------------------------------------------------
+
+[2026-06-04 13:39:44]
+Protocol         : TCP
+Source IP        : 192.168.1.5
+Destination IP   : 51.132.193.104
+Source Port      : 54958
+Destination Port : 443
+Length           : 54 bytes
+TCP Flags        : A
+Payload Size     : 40 bytes
+Summary          : Ether / IP / TCP 192.168.1.5:54958 > 51.132.193.104:https A
+------------------------------------------------------------
+
+[2026-06-04 13:39:53]
+Protocol         : UDP
+Source IP        : 192.168.1.4
+Destination IP   : 224.0.0.251
+Source Port      : 5353
+Destination Port : 5353
+Length           : 505 bytes
+TCP Flags        : -
+Payload Size     : 491 bytes
+Summary          : Ether / IP / UDP / mDNS Ans b'Android-3.local.'
+------------------------------------------------------------
